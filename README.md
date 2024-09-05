@@ -1,3 +1,2 @@
-# Tareas y/o Trabajos
-Tareas y/o trabajos de la materia Algorítmica
-:)
+# Algoritmica
+Matrícula: 240209944 Egresado: José Alejandro Márquez Ruiz
