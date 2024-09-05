@@ -1,2 +1,3 @@
-# Tareas
-Tareas de la materia Algorítmica
+# Tareas y/o Trabajos
+Tareas y/o trabajos de la materia Algorítmica
+:)
