@@ -1,2 +1,2 @@
 # Algoritmica
-Matrícula: #24020133 Alumno: Ruiz Alvarado Santiago
+Tareas y/o Trabajos de Algoritmica
