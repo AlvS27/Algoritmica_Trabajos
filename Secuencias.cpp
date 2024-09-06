@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    int num;
     /*Comentario*/
     printf("hola mundo");
     printf("\nHOLA MUNDO"); /*Salto de linea*/
