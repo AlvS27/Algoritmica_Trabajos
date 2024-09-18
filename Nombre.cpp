@@ -8,9 +8,9 @@ int main()
     char nom[30], ape[30];
 
     printf("Intodusca su Nombre: "); scanf("%s",&nom);
-    printf("Intodusca su Apellido: "); scanf("%s",&ape);
-    printf("Hola %s %s, buenos d%cas",nom,ape, 161);
-   /*getch();*/
+    printf("\nIntodusca su Apellido: "); scanf("%s",&ape);
+    printf("\nHola %s %s, buenos d%cas",nom,ape, 161);
+   /*getch();*/ /*Pausa*/
 
     return 0;
 }
