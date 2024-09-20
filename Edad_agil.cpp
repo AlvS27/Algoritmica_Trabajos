@@ -10,11 +10,11 @@ int main()
     cin >> dia;
     cout << "Ingrese su Mes de Nacimieto: ";
     cin >> mes;
-    cout << "Ingrese su Año de Nacimieto: ";
+    cout << "Ingrese su AÃ±o de Nacimieto: ";
     cin >> ano;
 
     edad=2024-ano;
 
-    cout << "Tu edad es de: " << edad << " años" << endl;
+    cout << "Tu edad es de: " << edad << " aÃ±os" << endl;
     return 0;
 }
