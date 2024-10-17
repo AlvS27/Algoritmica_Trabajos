@@ -1,3 +1,4 @@
+/*Programa: Promedio*/
 #include<stdio.h>
 #include<conio.h>
 
