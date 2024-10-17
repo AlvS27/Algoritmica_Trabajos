@@ -15,11 +15,11 @@ int main(){
             num=0;
     }
       if(pro!=0){
-                    printf("\nNig >:(");
+                    printf("\nFIN");
             }
     }
     else{
-        printf("\nNig >:(");
+        printf("\nFIN");
 
     }
 }
