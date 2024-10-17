@@ -1,3 +1,4 @@
+/*Programa: Switch*/
 #include <iostream>
 
 using namespace std;
@@ -24,7 +25,7 @@ int main()
     break;
     }
     cout << "Tu Promedio es de: " << prom << endl;
-    cout << "¿Desea repetir?: [S/N]" << endl;
+    cout << "Â¿Desea repetir?: [S/N]" << endl;
     cin >> repit;
     }
     while(repit=='S'||repit=='s');
