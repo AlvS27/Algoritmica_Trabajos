@@ -1,4 +1,4 @@
-/*Programa: Ciclo*/
+/*Programa: ciclo_For*/
 #include <iostream>
 
 using namespace std;
